@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+package com.armj.kafka.protobuftopicproducer.model;
+
+message DeliveryAddress {
+  string AddressLine = 1;
+  string City = 2;
+  string State = 3;
+  string PinCode = 4;
+  string ContactNumber = 5;
+}

@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+package com.armj.kafka.protobuftopicproducer.model;
+
+
+message Notification {
+  string InvoiceNumber = 1;
+  string CustomerCardNo = 2;
+  double TotalAmount = 3;
+  double EarnedLoyaltyPoints = 4;
+}

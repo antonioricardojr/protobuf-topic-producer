@@ -1,0 +1,72 @@
+[
+  {
+    "ItemCode": "456723",
+    "ItemDescription": "Mesa de Escritório em L - Madeira Maciça",
+    "ItemPrice": 985.90,
+    "ItemQty": 1,
+    "TotalValue": 985.90
+  },
+  {
+    "ItemCode": "875812",
+    "ItemDescription": "Caneca Térmica",
+    "ItemPrice": 68.90,
+    "ItemQty": 1,
+    "TotalValue": 68.90
+  },
+  {
+    "ItemCode": "987621",
+    "ItemDescription": "Cortina de Linho",
+    "ItemPrice": 199.90,
+    "ItemQty": 1,
+    "TotalValue": 199.90
+  },
+  {
+    "ItemCode": "222312",
+    "ItemDescription": "Vaso de Planta",
+    "ItemPrice": 16.70,
+    "ItemQty": 1,
+    "TotalValue": 16.70
+  },
+  {
+    "ItemCode": "097853",
+    "ItemDescription": "Ar Condicionado Split Hi Wall Samsung",
+    "ItemPrice": 1979.10,
+    "ItemQty": 1,
+    "TotalValue": 1979.10
+  },
+  {
+    "ItemCode": "097853",
+    "ItemDescription": "Rack com painel para TV",
+    "ItemPrice": 337.99,
+    "ItemQty": 1,
+    "TotalValue": 337.99
+  },
+  {
+    "ItemCode": "097853",
+    "ItemDescription": "Robô Aspirador WAP Robot W100",
+    "ItemPrice": 449.91,
+    "ItemQty": 1,
+    "TotalValue": 449.91
+  },
+  {
+    "ItemCode": "097853",
+    "ItemDescription": "Cavalete para Quadro Flip Chart",
+    "ItemPrice": 250.90,
+    "ItemQty": 1,
+    "TotalValue": 250.90
+  },
+  {
+    "ItemCode": "097853",
+    "ItemDescription": "Ovo de Páscoa Chocolate",
+    "ItemPrice": 6.99,
+    "ItemQty": 10,
+    "TotalValue": 69.90
+  },
+  {
+    "ItemCode": "097853",
+    "ItemDescription": "Mesa de Jantar Rústica",
+    "ItemPrice": 1249.90,
+    "ItemQty": 1,
+    "TotalValue": 1249.90
+  }
+]

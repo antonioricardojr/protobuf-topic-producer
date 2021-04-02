@@ -1,0 +1,32 @@
+[
+  {"AddressLine":  "Gonzales Road",
+    "City":  "Rolling Meadows",
+    "State":  "IL",
+    "PinCode":  "60008",
+    "ContactNumber":  "123123453"
+  },
+  {"AddressLine":  "8756 South Pine Road",
+    "City":  "Memphis",
+    "State":  "TN",
+    "PinCode":  "38106",
+    "ContactNumber":  "3215874"
+  },
+  {"AddressLine":  "71 Jennings Drive",
+    "City":  "Winter Springs",
+    "State":  "NJ",
+    "PinCode":  "08302",
+    "ContactNumber":  "95874126"
+  },
+  {"AddressLine":  "71 Jennings Drive",
+    "City":  "Winter Springs",
+    "State":  "NJ",
+    "PinCode":  "08302",
+    "ContactNumber":  "95874126"
+  },
+  {"AddressLine":  "7 Rocky River St.",
+    "City":  "Hazleton",
+    "State":  "PA",
+    "PinCode":  "18201",
+    "ContactNumber":  "9875148"
+  }
+]

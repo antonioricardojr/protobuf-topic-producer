@@ -1,0 +1,42 @@
+syntax = "proto3";
+
+
+package com.armj.kafka.protobuftopicproducer.model;
+
+
+message Invoice {
+  string InvoiceNumber = 1;
+  int64 CreatedTime = 2;
+  string StoreID = 3;
+  string PosID = 4;
+  string CashierID = 5;
+  string CustomerType = 6;
+  string CustomerCardNo = 7;
+  double TotalAmount = 8;
+  int32 NumberOfItems = 9;
+  string PaymentMethod = 10;
+  double TaxableAmount = 11;
+  double CGST = 12;
+  double SGST = 13;
+  double CESS = 14;
+  string DeliveryType = 15;
+  DeliveryAddress deliveryAddress = 16;
+  repeated Item item = 17;
+
+  message Item {
+    string ItemCode = 1;
+    string ItemDescription = 2;
+    string ItemPrice = 3;
+    string ItemQty = 4;
+    string TotalValue = 5;
+  }
+
+  message DeliveryAddress {
+    string AddressLine = 1;
+    string City = 2;
+    string State = 3;
+    string PinCode = 4;
+    string ContactNumber = 5;
+  }
+
+}
